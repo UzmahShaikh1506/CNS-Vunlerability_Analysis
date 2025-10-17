@@ -1,4 +1,4 @@
-#Web Security Experiment - DVWA
+# Web Security Experiment - DVWA
 
 This repository contains the code snippets demonstrating the remediation of vulnerabilities for the Web Security experiment using the Damn Vulnerable Web Application (DVWA).
 
